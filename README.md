@@ -1,5 +1,6 @@
 ## Rutgers Info
 ###[DEMO](https://rutgersinfo.herokuapp.com/)
+    - If the link doesn't work. You just need to refresh the page. Heroku has it so the application sleeps after 24 hours. You just need to wake it up by refreshing. Happy Gaming!
 
 <p align="center">
   <a href="">
